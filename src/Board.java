@@ -1,3 +1,6 @@
+package Classes;
+import java.util.*;
+
 public class Board {
   private final int numRows;
     private final int numCols;
